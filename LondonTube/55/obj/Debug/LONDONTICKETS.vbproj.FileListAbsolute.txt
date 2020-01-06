@@ -1,0 +1,11 @@
+C:\Users\shant\Desktop\VisualStudio808\CH5\55\55\bin\Debug\55.exe
+C:\Users\shant\Desktop\VisualStudio808\CH5\55\55\bin\Debug\55.pdb
+C:\Users\shant\Desktop\VisualStudio808\CH5\55\55\bin\Debug\55.xml
+C:\Users\shant\Desktop\VisualStudio808\CH5\55\55\obj\Debug\_55.Form1.resources
+C:\Users\shant\Desktop\VisualStudio808\CH5\55\55\obj\Debug\_55.Resources.resources
+C:\Users\shant\Desktop\VisualStudio808\CH5\55\55\obj\Debug\LONDONTICKETS.vbproj.GenerateResource.cache
+C:\Users\shant\Desktop\VisualStudio808\CH5\55\55\obj\Debug\LONDONTICKETS.vbproj.CoreCompileInputs.cache
+C:\Users\shant\Desktop\VisualStudio808\CH5\55\55\obj\Debug\55.exe
+C:\Users\shant\Desktop\VisualStudio808\CH5\55\55\obj\Debug\55.xml
+C:\Users\shant\Desktop\VisualStudio808\CH5\55\55\obj\Debug\55.pdb
+C:\Users\shant\Desktop\VisualStudio808\CH5\55\55\obj\Debug\LONDONTICKETS.vbprojAssemblyReference.cache
